@@ -1,6 +1,8 @@
 # This is a Sorting Algorithm Visualization Simulator Created With React
 ## This is a react app used to show real time visual animations of bubble sort, selection sort and merge sort.
 
+![Screen Shot 2023-03-09 at 8 39 34 PM](https://user-images.githubusercontent.com/29494588/224227734-6ba8d0b3-6d61-49e7-9efe-d3cf3ea7b1d4.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
