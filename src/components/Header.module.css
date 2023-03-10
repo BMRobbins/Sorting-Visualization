@@ -1,0 +1,13 @@
+.header_container {
+  align-items: center;
+  background-color: #9a1d9a;
+  display: flex;
+  height: 100px;
+  justify-content: space-between;
+  text-transform: capitalize;
+  width: 100%;
+}
+
+.header_title {
+  margin-left: 50px;
+}

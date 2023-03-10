@@ -1,0 +1,10 @@
+.array_container {
+  align-items: flex-end;
+  border: solid 1px black;
+  display: flex;
+  gap: 1px;
+  height: 600px;
+  margin: 25px auto;
+  /* padding: 0 10px; */
+  width: 1090px;
+}
